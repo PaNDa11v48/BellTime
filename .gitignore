@@ -1,10 +1,9 @@
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.class
 *.iml
-*.xml
-*.gradle
-*.properties
-build
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
