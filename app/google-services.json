@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "612615307358",
+    "firebase_url": "https://myapplication2-b82fc.firebaseio.com",
+    "project_id": "myapplication2-b82fc",
+    "storage_bucket": "myapplication2-b82fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612615307358:android:af2583ad48a0963c",
+        "android_client_info": {
+          "package_name": "allaber.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612615307358-404gfr2dgiq7uolje93tn16cnpdcqdtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "allaber.com.myapplication",
+            "certificate_hash": "0df79c0db0808c7e9b6cf2fa6a2161c7741b5acd"
+          }
+        },
+        {
+          "client_id": "612615307358-kum9o1rl3ofrgr6t8tojr25j5j6rktb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZdbcG2xaByBsvydgEEr2Q1LCiVqmGuzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612615307358-kum9o1rl3ofrgr6t8tojr25j5j6rktb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612615307358:android:ff1b74ee1818c7de",
+        "android_client_info": {
+          "package_name": "com.allaber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612615307358-kum9o1rl3ofrgr6t8tojr25j5j6rktb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZdbcG2xaByBsvydgEEr2Q1LCiVqmGuzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
